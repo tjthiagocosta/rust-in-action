@@ -1,6 +1,5 @@
 ![](https://images.manning.com/264/352/resize/book/4/d33e139-a73e-4206-b457-6fa024449e33/McNamara-Rust-HI.png)
 
-
 # Rust In Action - Code Examples
 
 This repository contains the complete source code for all the projects and exercises discussed in the book "Rust In Action". Each project has its own directory and contains all the Rust files (.rs) required to run the application. This code is intended to be used alongside the book as a practical tool for learning Rust.
@@ -33,12 +32,6 @@ For example, if you wish to run the `hello_world.rs` file in the `chapter_1` dir
 <pre><div class="bg-black rounded-md mb-4"><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-bash">cd chapter_1
 cargo run --bin hello-world
 </code></div></div></pre>
-
-## Contributing
-
-Contributions are welcome! If you find a bug or have suggestions for improvements, please open an issue. If you'd like to contribute code (such as a fix for a bug, a new feature, or an update), please open a pull request.
-
-Please make sure to update tests as appropriate.
 
 ## License
 
